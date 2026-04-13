@@ -1,0 +1,19 @@
+{
+  "name": "noise-kit",
+  "version": "1.0.0",
+  "description": "Ruído Perlin e Simplex 1D/2D",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["noise", "perlin", "simplex", "procedural"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
