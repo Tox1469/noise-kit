@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/noise-kit/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/noise-kit/actions)
+[![License](https://img.shields.io/github/license/Tox1469/noise-kit?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/noise-kit?style=flat-square)](https://github.com/Tox1469/noise-kit/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/noise-kit?style=flat-square)](https://github.com/Tox1469/noise-kit/stargazers)
+
+---
+
 # noise-kit
 
 Ruído Perlin e Simplex 1D/2D
